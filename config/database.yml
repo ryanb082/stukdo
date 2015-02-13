@@ -24,8 +24,7 @@ production: &default
   adapter: postgresql
   database: todoism
   encoding: utf8
-  min_message: warning
+  min_messages: warning
   pool: 5
   timeout: 5000
-  
  
